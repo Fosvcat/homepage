@@ -5,13 +5,13 @@
     "link": "https://www.fosvcat.top/"
   },
   {
-    "icon": "MdCube",
+    "icon": "Compass",
     "name": "项目",
     "link": "https://www.fosvcat.top/project/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "LogoGoogle",
+    "name": "搜索",
+    "link": "https://www.google.com/"
   }
 ]
