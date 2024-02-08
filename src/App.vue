@@ -108,14 +108,7 @@ onMounted(() => {
   const styleTitle2 = "font-size:12px;color: rgb(244,167,89);";
   const styleContent = "color: rgb(30,152,255);";
   const title1 = "Fosvcat的主页";
-  const title2 = `
-
-███████╗ ██████╗ ███████╗██╗   ██╗ ██████╗ █████╗ ████████╗
-██╔════╝██╔═══██╗██╔════╝██║   ██║██╔════╝██╔══██╗╚══██╔══╝
-█████╗  ██║   ██║███████╗██║   ██║██║     ███████║   ██║   
-██╔══╝  ██║   ██║╚════██║╚██╗ ██╔╝██║     ██╔══██║   ██║   
-██║     ╚██████╔╝███████║ ╚████╔╝ ╚██████╗██║  ██║   ██║   
-╚═╝      ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝╚═╝  ╚═╝   ╚═╝   ;
+  const title2 = "Fosvcat的主页";
   const content = `\n\n版本: ${config.version}\n主页: ${config.home}\nGithub: ${config.github}`;
   console.info(`%c${title1} %c${title2} %c${content}`, styleTitle1, styleTitle2, styleContent);
 });
