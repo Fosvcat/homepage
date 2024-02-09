@@ -42,6 +42,8 @@
 
 <script setup>
 import { Icon } from "@vicons/utils";
+import { Google } from "https://www.xicons.org";
+
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
